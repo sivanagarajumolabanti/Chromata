@@ -1,4 +1,4 @@
-protobuf==3.7.1
+protobuf==3.18.3
 rpcudp==3.0.0
 six==1.12.0
 u-msgpack-python==2.5.1
